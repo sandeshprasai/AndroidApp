@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="firstText">This is My application</string>
+    <string name="secondText">This is My subtitle</string>
+    <string name="FormTitle">Registration Form</string>
+    <string name="nameHint">Full Name</string>
+    <string name="emailHint">example@email.com</string>
+    <string name="addressHint">Address</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="radioMale">Male</string>
+    <string name="radioFemale">Female</string>
+    <string name="TermsAndConditions">I accept all the terms and conditions</string>
+    <string name="SubmitBtn">Submit</string>
+
+    <string-array name="country">
+        <item>Select Country</item>
+        <item>Nepal</item>
+        <item>China</item>
+    </string-array>
+</resources>
