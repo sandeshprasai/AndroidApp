@@ -9,7 +9,6 @@
     <string name="regtext">Registration Form</string>
 
 
-
     <string-array name="country">
         <item>--Select Country--</item>
         <item>Nepal</item>
